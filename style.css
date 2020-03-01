@@ -1,3 +1,9 @@
-title{
-    text-align: center;
+body{
+    background-color: peachpuff;
 }
+
+.jumbotron{
+    background-color: peru;
+    font-weight: 300;
+}
+
